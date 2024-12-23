@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-``````
+```
 <div class="container--0-">
   <div class="text-0-1-0">SAVEETHA <br />ENGINEERING COLLEGE</div>
   <div class="text-0-1-1">
